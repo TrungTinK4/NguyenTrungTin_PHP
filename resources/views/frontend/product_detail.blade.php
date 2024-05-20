@@ -76,7 +76,7 @@
             <a class="nav-link" href="blog.html">BLOG</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="Contact.html">LIÊN HỆ</a>
+            <a class="nav-link" href="">LIÊN HỆ</a>
           </li>
         </ul>
       </div>
