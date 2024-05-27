@@ -11,8 +11,6 @@ class ProductController extends Controller
     {
         return view('frontend.product');
     }
-    public  function product_detail()
-    {
-        return view('frontend.product-detail');
+
     }
-}
+
