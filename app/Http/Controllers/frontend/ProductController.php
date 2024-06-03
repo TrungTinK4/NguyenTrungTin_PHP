@@ -7,10 +7,12 @@ use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
-    public  function index()
+    public function product()
     {
         return view('frontend.product');
     }
-
+    public function detailproduct()
+    {
+        return view('frontend.detailproduct');
     }
-
+}

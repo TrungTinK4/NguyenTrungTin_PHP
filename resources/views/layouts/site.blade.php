@@ -33,7 +33,7 @@
                   <a class="nav-link" href="index.html">TRANG CHỦ</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="Product.html">BỘ SƯU TẬP</a>
+                  <a class="nav-link" href="product.html">BỘ SƯU TẬP</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="detailproduct.html">SẢN PHẨM
@@ -64,7 +64,7 @@
                   <a class="nav-link" href="blog.html">BLOG</a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link" href="Contact.html">LIÊN HỆ</a>
+                  <a class="nav-link" href="contact.html">LIÊN HỆ</a>
                 </li>
               </ul>
             </div>
@@ -84,7 +84,7 @@
                       <a class="nav-link" href="index.html">TRANG CHỦ</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="Product.html">BỘ SƯU TẬP</a>
+                      <a class="nav-link" href="product.html">BỘ SƯU TẬP</a>
                     </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
@@ -105,7 +105,7 @@
                       <a class="nav-link" href="blog.html">BLOG</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="Contact.html">LIÊN HỆ</a>
+                      <a class="nav-link" href="contact.html">LIÊN HỆ</a>
                     </li>
                   </ul>
                 </div>
